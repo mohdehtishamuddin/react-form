@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.app{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    background-color: rgb(133, 164, 21);
+    
+
+}
+h1{
+    padding: 5px;
+    margin: 10px;
+   background-color: white;
+}
+button{
+   margin-left: 50%;
+   background-color: rgb(147, 209, 113);
+   height: 40px;
+   padding: 30px;
+   text-align: center;
+ 
+}
