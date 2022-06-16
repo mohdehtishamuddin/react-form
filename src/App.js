@@ -1,12 +1,14 @@
-// import logo from './logo.svg';
 import './App.css';
-import Form from './Form';
+// import Form from './Form';
+import Text from './Text';
+
 // import Last from './Last';
 
 function App() {
   return (
     <div>
-     <Form/>
+     {/* <Form/> */}
+     <Text/>
      {/* <Last/> */}
     </div>
   );
